@@ -1,1 +1,1 @@
-# full-compiler
+# Smaller C Compiler
